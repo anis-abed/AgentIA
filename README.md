@@ -67,8 +67,8 @@ Les petits modèles de langage (1b–3b) ont tendance à ajouter du texte conver
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/<votre-username>/<votre-repo>.git
-cd <votre-repo>
+git clone https://github.com/anis-abed/AgentIA.git
+cd AgentIA
 
 # 2. Installer les dépendances Python
 pip install -r requirements.txt
